@@ -22,7 +22,7 @@ repository               : "https://github.com/liuzm-slam/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/dog.png"
+  avatar           : "/images/dog.png"
   name             : "Ziming Liu"
   # pronouns         : "he"  
   bio              : "Phd"
