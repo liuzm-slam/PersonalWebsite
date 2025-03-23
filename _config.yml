@@ -13,9 +13,9 @@ title                    : "Ziming Liu / Person Website"
 title_separator          : "-"
 name                     : &name "Ziming Liu"
 description              : &description "personal description"
-url                      : https://liuzm-slam.github.io/PersonalWebsite
+url                      : https://liuzm-slam.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/liuzm-slam/"
+repository               : "liuzm-slam"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Phd"
   location         : "Beijing"
   employer         : "Beijing institute of Technology"
-  uri              : https://liuzm-slam.github.io/PersonalWebsite/
+  uri              : https://liuzm-slam.github.io
   email            : "3120245599@bit.edu.cn" 
 
   # Academic websites
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : https://www.youtube.com/@frankchen-g8i
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
