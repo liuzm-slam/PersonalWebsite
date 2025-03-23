@@ -22,13 +22,13 @@ repository               : "liuzm-slam"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/dog.png"
+  avatar           : "/images/editing-talk.png"
   name             : "Ziming Liu"
   # pronouns         : "he"  
   bio              : "Phd"
   location         : "Beijing"
   employer         : "Beijing institute of Technology"
-  uri              : https://liuzm-slam.github.io
+  uri              : https://liuzm-slam.github.io/PersonalWebsite
   email            : "3120245599@bit.edu.cn" 
 
   # Academic websites
