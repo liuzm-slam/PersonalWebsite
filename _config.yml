@@ -22,7 +22,7 @@ repository               : "liuzm-slam"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/editing-talk.png"
+  avatar           : "editing-talk.png"
   name             : "Ziming Liu"
   # pronouns         : "he"  
   bio              : "Phd"
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : @frankchen-g8i
+  youtube          : "@frankchen-g8i"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
